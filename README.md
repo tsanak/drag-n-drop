@@ -2,6 +2,16 @@
 
 > Drag and drop components into slots
 
+Drag and drop images(components) from one component to another, using vddl.
+
+### #slot1 
+takes only small images (max # of images = 4), distributed on 4 rows of 1 column
+
+### #slot2 
+takes only big images (max # of images = 6), distributed on 2 rows of 3 columns
+
+P.S: sorry for the worst design ever made 😬
+
 ## Build Setup
 
 ``` bash
